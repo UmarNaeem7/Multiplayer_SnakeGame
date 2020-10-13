@@ -1,0 +1,17 @@
+﻿  Snake.cpp
+D:\source\repos\Snake\Snake\Snake.cpp(193,23): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(246,27): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(292,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\source\repos\Snake\Snake\Snake.cpp(296,27): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(326,27): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(335,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\source\repos\Snake\Snake\Snake.cpp(340,35): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(351,35): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(388,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\source\repos\Snake\Snake\Snake.cpp(393,35): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(404,35): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(435,23): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(452,23): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\Snake\Snake\Snake.cpp(472,23): warning C4018: '<': signed/unsigned mismatch
+  Snake.vcxproj -> D:\source\repos\Snake\Debug\Snake.exe
