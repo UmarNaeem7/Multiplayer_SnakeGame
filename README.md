@@ -8,21 +8,21 @@ Arrow keys are used for Player 1, WASD keys for Player 2.
 
 Game start screen:
 
-![](Images/start screen.png)
+![](Images/startscreen.png)
 
 Single player mode:
 
-![](Images/1-P Snake.png)
+![](Images/1-PSnake.png)
 
 Two player mode:
 
-![](Images/2-P Snake.png)
+![](Images/2-PSnake.png)
 
 1 snake dead in 2-P mode:
 
-![](Images/1 Snake dead.png)
+![](Images/1Snakedead.png)
 
 Game over in 2-P mode:
 
-![](Images/2-P Game over.png)
+![](Images/2-PGameover.png)
 
